@@ -26,7 +26,7 @@ The dataset includes structured healthcare data across multiple tables:
 * **Encounters** → Visit details with start & stop timestamps
 * **Conditions** → Diagnosed medical conditions
 * **Providers** → Healthcare professionals involved
-* **Payers** → Insurance/payment sources
+
 
 ---
 
@@ -47,11 +47,6 @@ The dataset includes structured healthcare data across multiple tables:
 * **Excel / CSV** → Data handling
 * **SQL (optional)** → Data querying & transformation
 
----
-
-## 📷 Dashboard Preview
-
-*(Add screenshots here for better visualization — highly recommended for recruiters)*
 
 ---
 
